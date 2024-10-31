@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Ahmed Patel</h1>
 <h3 align="center">A passionate full stack web developer from Pakistan</h3>
-<img align="right" alt="gif" width="400" src="https://camo.githubusercontent.com/0e2953d98b21eda5a158939ea202c7c07b16b0dc0dc5c1e269826c29a01a974f/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966">
+<img align="right" alt="gif" width="400" src="https://camo.githubusercontent.com/073e698f640d45f8ce4b39d9a9606f155b1a3eef844bfafadc359ad946ad38de/68747470733a2f2f6570696370726f6772616d6d65726173736574732e6e65746c6966792e6170702f4173736574732f636f64652e6769663f7261773d74727565">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshanahmedpatel&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshanahmedpatel" /> </p>
 
